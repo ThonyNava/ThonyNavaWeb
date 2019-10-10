@@ -3252,8 +3252,10 @@ Primary style
   }
   /**form**/
   .bluewrapcontact{
-          background-color: #273040;
-      box-shadow: 0px 0px 115px #000000a6;
+      background-color: #273040;
+      border: 2px solid rgba(0,220,255,.2);
+      border-radius: 2rem;
+      box-shadow: 0 0 2rem rgba(0,220,255,.8);
       padding: 6%;
       width: 70%;
       margin: 10% auto 10%;
